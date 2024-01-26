@@ -29,10 +29,16 @@
 
 ![image](https://github.com/hayatelallaouy01/spring-project-angular-thymeleaf/assets/123452386/3dc7367d-3981-4687-8ab8-a2fc87f92f1a)
 
-### create a role 
+### Create a role 
 
 ![image](https://github.com/hayatelallaouy01/spring-project-angular-thymeleaf/assets/123452386/614e5d4b-8b35-4533-8bbf-c5ce2d9bc2da)
 
 ![image](https://github.com/hayatelallaouy01/spring-project-angular-thymeleaf/assets/123452386/8c8a7d5a-e041-4e50-94fc-8b37aeda1e31)
 
++ Authorization 
+
+![image](https://github.com/hayatelallaouy01/spring-project-angular-thymeleaf/assets/123452386/10101813-a823-4cfd-8fc8-233c43e84856)
+
+### Sign in on keycloak
+![image](https://github.com/hayatelallaouy01/spring-project-angular-thymeleaf/assets/123452386/60631040-4ec9-4af8-9201-b688a74633af)
 
